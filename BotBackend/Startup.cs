@@ -5,15 +5,11 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using BotBackend.Models.contexts;
 using BotBackend.Services;
-using SimpleInjector;
 
 namespace BotBackend
 {
     public class Startup
     {
-
-        public Container container = new Container();
-
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -26,10 +22,7 @@ namespace BotBackend
         {
             ConfigureContext.AddDbContexts(services);
 
-            services.AddSimpleInjector(container, options =>
-            {
-                options.AddAspNetCore();
-            });
+            services.AddScoped<IMemberService, MemberService>();
 
             services.AddControllers();
         }
@@ -37,9 +30,6 @@ namespace BotBackend
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.UseSimpleInjector(container);
-            SetupContainers();
-
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -55,12 +45,6 @@ namespace BotBackend
             {
                 endpoints.MapControllers();
             });
-        }
-
-        public void SetupContainers()
-        {
-            SetupServices.SetupContainer(container);
-            container.Verify();
         }
     }
 }
