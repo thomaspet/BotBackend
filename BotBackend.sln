@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotBackend", "WaifuBackend\BotBackend.csproj", "{9636C8A4-D263-4A90-BEBB-0F553545718B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotBackend", "BotBackend\BotBackend.csproj", "{9636C8A4-D263-4A90-BEBB-0F553545718B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{65DDAEF7-DF92-4092-AC11-31338EB9FC0C}"
 EndProject
