@@ -1,0 +1,12 @@
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache

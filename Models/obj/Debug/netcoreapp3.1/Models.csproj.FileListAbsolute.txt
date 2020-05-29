@@ -1,0 +1,9 @@
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\thomaspet\Documents\Programmering\Waifu-bot\WaifuBackend\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
